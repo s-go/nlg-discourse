@@ -1,6 +1,6 @@
 # Fragen
 
-## An Manfred
+## MS
 
 * formale Anforderungen?
 	* Umfang
@@ -11,3 +11,4 @@
 * Thema:
 	* lieber weit ("Diskursrelationen im Anwendungskontext der automatischen Textgenerierung")?
 	* lieber eng (ein Aspekt daraus)?
+* regelmäßige Statustreffen (z. B. einmal pro Monat)?
