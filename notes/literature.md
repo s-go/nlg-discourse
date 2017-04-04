@@ -1,11 +1,13 @@
 # Literatur
 
-* [ ] Dimitromanolaki, A., & Androutsopoulos, I. (2003). Learning to Order Facts for Discourse Planning in Natural Language Generation. In Proc. ENLG’03, pp. 23–30.
+* [x] Dimitromanolaki, A., & Androutsopoulos, I. (2003). Learning to Order Facts for Discourse Planning in Natural Language Generation. In Proc. ENLG’03, pp. 23–30.
+* [ ] Duboue, P. A., & McKeown, K. R. (2002, July). Content planner construction via evolutionary algorithms and a corpus-based fitness function. In Proceedings of INLG 2002 (pp. 89-96).
 * [x] Gatt, Albert; Krahmer, Emiel (2017): *Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation*.
 > To account for discourse relations between messages, researchers have alternatively relied on Rhetorical Structure Theory (rst; e.g., Mann & Thompson, 1988; Scott & Sieckenius de Souza, 1990; Hovy, 1993), which also typically involved domain-specific rules. For example, Williams and Reiter (2008) used rst relations to identify ordering among messages that would maximise clarity to low-skilled readers.
 * [ ] **Hovy, E. H. (1993). Automated discourse generation using discourse structure relations. Artificial intelligence, 63(1), 341-385.**
 * [ ] Hovy, E. H. (1993). Automated Discourse Planning and Generation. In Proc. Anunal Meeting of the Society for Text and Discourse.
 * [ ] Kosseim/Lapalme (1998) Choosing Rhetorical Structures to Plan Instructional Texts
+* [ ] **Malmi, E., Pighin, D., Krause, S., & Kozhevnikov, M. (2017). Automatic Prediction of Discourse Connectives. arXiv preprint arXiv:1702.00992.**
 * [ ] Nakatsu, C., & White, M. (2010). Generating with Discourse Combinatory Categorial Grammar. Linguistic Issues in Language Technology, September.
 * [x] Reiter/Dale (1997) Building Applied Natural Language Generation Systems
 > 5.2 Discourse Planning
@@ -18,6 +20,7 @@ planning-based approaches and the large amounts of knowledge they require, means
 * [x] Scheffler, T., & Stede, M. (2016). Adding Semantic Relations to a Large-Coverage Connective Lexicon of German. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016), Portoroz, Slovenia, May.
 > RST defines relations between text segments (elementary or complex discourse units), based on the cognitive effect of the combination on the reader. Though connectives may be present, and sometimes signal relations, they are not considered central for determining the identified relation.
 * [x] Stede, M., & Umbach, C. (1998). DiMLex: A lexicon of discourse markers for text generation and understanding. In Proceedings of the 17th international conference on Computational linguistics-Volume 2 (pp. 1238-1242). Association for Computational Linguistics.
+* [ ] Taboada, M., & Mann, W. C. (2006). Applications of rhetorical structure theory. Discourse studies, 8(4), 567-588.
 
 ## Vielleicht interessant
 

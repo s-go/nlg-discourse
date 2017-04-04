@@ -4,7 +4,7 @@
 
 Während der automatischen Textgenerierung Diskursrelationen bestimmen und Aussagen durch Konnektoren verknüpfen
 
-* bessere Informationspräsentation: Aussagen werden nicht isoliert präsentiert, sondern in Bezug gesetzt
+* bessere Informationspräsentation: Aussagen werden nicht isoliert präsentiert, sondern in Bezug gesetzt ("guide the hearer's inferences" Howy 1993: 4)
 * verbesserter Lesefluss
 * erhöhte Natürlichkeit und Nähe zu Texten menschlicher Autoren
 
@@ -13,7 +13,7 @@ Während der automatischen Textgenerierung Diskursrelationen bestimmen und Aussa
 **Anwendung auf templatebasierte Textgenerierung**
 
 * in der (industriellen) Praxis verbreitetes Verfahren
-* besondere Herausforderungen durch Template-Transformationen
+* besondere Herausforderungen durch Template-Transformationen (z. B.: Welche Art syntaktischer Annotation ist notwendig, um automatisch Diskurskonnektoren einzufügen?)
 
 **[Relationsschemata](notes/relation-schemas.md)**
 
