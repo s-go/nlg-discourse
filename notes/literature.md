@@ -28,7 +28,7 @@ planning-based approaches and the large amounts of knowledge they require, means
 
 ## Aligning data and text / Learning Semantic Correspondences
 
-* [ ] Barzilay, R., & Lapata, M. (2005). Collective content selection for concept-totext generation. In Proc. HLT/EMNLP05, pp. 331338.
+* [ ] Barzilay, R., & Lapata, M. (2005). Collective content selection for concept-to-text generation. In Proc. HLT/EMNLP05, pp. 331338.
 * [ ] Liang, P., Jordan, M. I., & Klein, D. (2009). Learning Semantic Correspondences with Less Supervision. In Proc. ACL-IJCNLP’09, pp. 91–99.
 * [ ] Konstas, I., & Lapata, M. (2013). A global model for concept-to-text generation. Journal of Artificial Intelligence Research, 48, 305346.
 * [ ] Koncel-Kedziorski, R., & Hajishirzi, H. (2014). Multi-Resolution Language Grounding with Weak Supervision. In Proc. EMNLP’14, pp. 386–396.
