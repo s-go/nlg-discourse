@@ -22,9 +22,28 @@
 	1. Record choice
 	2. Field choice
 	3. Word choice
-	
+
 ### Record choice
 
+* choose a sequence of records to describe
 * capture two types of regularities:
 	1. salience (prominence)
-	1. coherence (order of mentions)
+	1. coherence (order of mentions
+
+### Field choice
+
+* for each chosen record, select a sequence of fields
+
+### Word choice
+
+* for each chosen field, choose a number and generate a sequence of words
+* Note that since their model always observes the words, this simplistic representation at the surface level is adequate (however, relaxing the independence assumption, e.g., by additionally conditioning on the previous word(s), could potentially yield a more powerful model)
+(Konstas/Lapata 2013: 311)
+* Their model supports three different types of fields, namely string, categorical and integer. For each
+of those they adopt a specific generation strategy at the word level.
+
+# Usage in Generation
+
+* Kim and Mooney (2010) address this problem by interfacing the alignments with WASP−1 (Wong & Mooney, 2007). The latter is a publicly available generation system which takes an alignment as input and finds the most likely string using the widely popular noisy-channel model.
+* Angeli et al. (2010) propose a model different in spirit which nevertheless also operates over the alignments of Liang et al. Using a template extraction method, they post-process the alignments in order to obtain a sequence of records, fields, and words which are spanned by the chosen records and fields.
+* Konstas, I., & Lapata, M. (2013). A global model for concept-to-text generation. Journal of Artificial Intelligence Research, 48, 305346.

@@ -11,7 +11,7 @@
 discourse (12)
 * [ ] Hovy, E. H. (1993). Automated Discourse Planning and Generation. In Proc. Anunal Meeting of the Society for Text and Discourse.
 * [ ] Kosseim/Lapalme (1998) Choosing Rhetorical Structures to Plan Instructional Texts
-* [ ] **Malmi, E., Pighin, D., Krause, S., & Kozhevnikov, M. (2017). Automatic Prediction of Discourse Connectives. arXiv preprint arXiv:1702.00992.**
+* [x] **Malmi, E., Pighin, D., Krause, S., & Kozhevnikov, M. (2017). Automatic Prediction of Discourse Connectives. arXiv preprint arXiv:1702.00992.**
 * [ ] Nakatsu, C., & White, M. (2010). Generating with Discourse Combinatory Categorial Grammar. Linguistic Issues in Language Technology, September.
 * [x] Reiter/Dale (1997) Building Applied Natural Language Generation Systems
 > 5.2 Discourse Planning
@@ -30,8 +30,13 @@ planning-based approaches and the large amounts of knowledge they require, means
 
 * [ ] Barzilay, R., & Lapata, M. (2005). Collective content selection for concept-to-text generation. In Proc. HLT/EMNLP05, pp. 331338.
 * [ ] Liang, P., Jordan, M. I., & Klein, D. (2009). Learning Semantic Correspondences with Less Supervision. In Proc. ACL-IJCNLP’09, pp. 91–99.
-* [ ] Konstas, I., & Lapata, M. (2013). A global model for concept-to-text generation. Journal of Artificial Intelligence Research, 48, 305346.
 * [ ] Koncel-Kedziorski, R., & Hajishirzi, H. (2014). Multi-Resolution Language Grounding with Weak Supervision. In Proc. EMNLP’14, pp. 386–396.
+
+### Usage in Generation
+
+* [x] Angeli, G., Liang, P., & Klein, D. (2010). A simple domain-independent probabilistic approach to generation. In Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing, pp. 502-512, Cambridge, MA.
+* [ ] Kim, J., & Mooney, R. (2010). Generative alignment and semantic parsing for learning from ambiguous supervision. In Proceedings of the 23rd Conference on Computational Linguistics, pp. 543-551, Beijing, China.
+* [ ] Konstas, I., & Lapata, M. (2013). A global model for concept-to-text generation. Journal of Artificial Intelligence Research, 48, 305-346.
 
 ## Vielleicht interessant
 

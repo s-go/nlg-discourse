@@ -41,3 +41,43 @@
 
 * "Predicting Connectives"
 
+## 2017/04/21
+
+* "Automatic Prediction of Discourse Connectives":
+	* Eingabe: nur Oberflächenformen, keine semantischen Informationen
+* Semantic Correspondence
+	* spannend
+	* ML-Ansatz herausfordernd
+	* Ziel: Template-Kandidaten lernen?
+* Daten-Text-Korpora
+	* RTR (deutsch)
+		* Hotelbeschreibungen
+		* Fußball-Vorberichte
+		* Fußball-Spielberichte
+		* Rechte/Lizenzen für Forschung?
+	* Research (englisch)
+		* Weather
+		* Robocup
+		* NFL
+		* Vergleichbarkeit mit Forschung
+		
+# Ideen
+
+* Fußball-Tickermeldungen
+** verschiedene Ticker
+** Frames: Kicktionary
+
+* Lernen
+** Prominenz von Ereignissen (über verschiedene Ticker)
+** Unterschiede zwischen Tickern
+
+* Problem
+** bisher kein Korpus von Tickermeldungen
+** [ ] noch zugreifbar? 
+
+# To do
+
+* [ ] Daten und Goldkorpus verfügbar?
+* [ ] Daten- und Domänenwahl
+	* Beispieldaten und -text
+* [ ] Sebastian Strober als ML-Mentor?
