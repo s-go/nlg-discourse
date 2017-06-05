@@ -15,6 +15,7 @@
 * Implementierung?
 	* Sprache/Bibliotheken
 	* Best practices
+* Alignment: veröffentlichten Code verwenden?
 
 
 ## 2017-04-21
@@ -26,7 +27,7 @@
 	* ML-Ansatz herausfordernd
 	* Ziel: Template-Kandidaten lernen?
 * Daten-Text-Korpora
-	* RTR (deutsch)
+	* RTR (deuts ch)
 		* Hotelbeschreibungen
 		* Fußball-Vorberichte
 		* Fußball-Spielberichte

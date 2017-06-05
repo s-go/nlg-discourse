@@ -1,5 +1,23 @@
 # TODO
 
+- [ ] Kondadadi, R., Howald, B., & Schilder, F. (2013, August). A Statistical NLG Framework for Aggregated Planning and Realization. In ACL (1) (pp. 1406-1415).
+
+## 2017-05-11
+
+- [ ] Check for scenarios (German?)
+	- [x] wetter.de
+	- [x] ~~wetteronline.de~~ – nur Texte, keine Daten
+	- [x] wetter.com
+	- [x] DWD – Trennung von manuell und automatisch generierten Texten?
+	- [x] wetterdienst.de – Rückfrage Daten
+	- [x] ZAMG (Ö)
+	- [x] MeteoSchweiz (CH) – Rückfragen
+	- [x] **meteoblue** (CH)
+		- Aggregation nach Tag *und* Region möglich?
+	- [ ] MeteoGroup?
+- [ ] Try out alignment model (Liang 2009)
+- [ ] Try out single features with `scikit-learn`/`SciPy`
+
 ## Research
 
 * [ ] discourse treebank (Stent and Molina, 2009), e.g. PDTB
